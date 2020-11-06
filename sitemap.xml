@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-09-25T12:24:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/css/</loc>
+    <lastmod>2020-09-25T12:24:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/css-tips-tricks/</loc>
+    <lastmod>2020-09-25T12:24:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-09-25T12:24:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-09-25T12:24:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-09-25T12:24:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/css-filter-brightness/</loc>
+    <lastmod>2020-09-25T12:24:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B/</loc>
+    <lastmod>2020-09-09T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/rus-katas-1/</loc>
+    <lastmod>2020-09-09T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/</loc>
+    <lastmod>2020-09-09T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/faq/</loc>
+    <lastmod>2020-01-17T19:27:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/git/</loc>
+    <lastmod>2020-01-17T19:27:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/faqgit/</loc>
+    <lastmod>2020-01-17T19:27:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/javascript/</loc>
+    <lastmod>2020-01-04T20:23:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/array-puzzle/</loc>
+    <lastmod>2020-01-04T20:23:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/%D0%B8%D0%B3%D1%80%D1%8B/</loc>
+    <lastmod>2020-01-04T20:23:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B/</loc>
+    <lastmod>2020-01-04T20:23:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/%D1%81odewars/</loc>
+    <lastmod>2020-01-01T14:52:48+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%D1%8B/</loc>
+    <lastmod>2020-01-01T14:52:48+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/space_between/</loc>
+    <lastmod>2019-12-21T14:04:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/javascript/</loc>
+    <lastmod>2019-12-01T13:43:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/</loc>
+    <lastmod>2019-12-01T13:43:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jsbooleans/</loc>
+    <lastmod>2019-12-01T13:43:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>

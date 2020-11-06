@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I Learn Web</title>
+    <link>/</link>
+    <description>Recent content on I Learn Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru_RU</language>
+    <lastBuildDate>Fri, 25 Sep 2020 12:24:00 +0300</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Затемнение фона кнопки при наведении курсора мыши</title>
+      <link>/post/css-filter-brightness/</link>
+      <pubDate>Fri, 25 Sep 2020 12:24:00 +0300</pubDate>
+      
+      <guid>/post/css-filter-brightness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Описание задач Codewars на русском. Часть 1</title>
+      <link>/post/rus-katas-1/</link>
+      <pubDate>Wed, 09 Sep 2020 10:00:00 +0300</pubDate>
+      
+      <guid>/post/rus-katas-1/</guid>
+      <description>&lt;p&gt;В данной серии статей будут публиковаться переводы задач по программированию на сайте Codewars. А также, при необходимости будут даны дополнительные объяснения, потому что иногда инструкции бывают непонятными.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Git и GitHub: FAQ</title>
+      <link>/post/faqgit/</link>
+      <pubDate>Fri, 17 Jan 2020 19:27:54 +0300</pubDate>
+      
+      <guid>/post/faqgit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Игра: Array Puzzle</title>
+      <link>/post/array-puzzle/</link>
+      <pubDate>Sat, 04 Jan 2020 20:23:09 +0300</pubDate>
+      
+      <guid>/post/array-puzzle/</guid>
+      <description>&lt;p&gt;Поупражняйтесь в методах массива в JavaScript, решая мини-паззл.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Codewars: обзор и рекомендации</title>
+      <link>/post/%D1%81odewars/</link>
+      <pubDate>Wed, 01 Jan 2020 14:52:48 +0300</pubDate>
+      
+      <guid>/post/%D1%81odewars/</guid>
+      <description>&lt;p&gt;Когда вы выбрали для себя основной язык программирования, то необходимо закрепить его основы: синтаксис, встроенные методы, принципы программирования в целом. Для этого лучше всего, на мой взгляд подходит решение задач.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Игра: Space Between</title>
+      <link>/post/space_between/</link>
+      <pubDate>Sat, 21 Dec 2019 14:04:08 +0300</pubDate>
+      
+      <guid>/post/space_between/</guid>
+      <description>&lt;p&gt;Ваши космические корабли пролетают опасную зону c астероидами&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Сравнение переменных без &#39;If ...else&#39; в JavaScript</title>
+      <link>/post/jsbooleans/</link>
+      <pubDate>Sun, 01 Dec 2019 13:43:08 +0300</pubDate>
+      
+      <guid>/post/jsbooleans/</guid>
+      <description>&lt;p&gt;Когда требуется проверить условие, верное (&lt;code&gt;true&lt;/code&gt;) оно или нет (&lt;code&gt;false&lt;/code&gt;) — не обязательно использовать при этом инструкции &lt;code&gt;if... else&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>О сайте</title>
+      <link>/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I Learn Web - личный блог, где я публикую туториалы, игры, помогающие изучить концепции программирования, обзоры и статьи.
+Ещё у меня есть группа в ВКонтаке - I Learn Web.
+Пока на этом всё.
+Для связи со мной пишите или в ВК или на почту: alveek@gmail.com</description>
+    </item>
+    
+  </channel>
+</rss>
