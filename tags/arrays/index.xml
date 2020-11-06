@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>arrays on Web Dev School</title>
+    <link>/tags/arrays/</link>
+    <description>Recent content in arrays on Web Dev School</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 17 Dec 2019 21:35:00 +0300</lastBuildDate>
+    
+	<atom:link href="/tags/arrays/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pop() &amp; Push() Puzzle</title>
+      <link>/post/arrmeth/</link>
+      <pubDate>Tue, 17 Dec 2019 21:35:00 +0300</pubDate>
+      
+      <guid>/post/arrmeth/</guid>
+      <description>&lt;p&gt;Реши паззл с помощью методов массива&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSS on I learn web</title>
+    <link>/categories/css/</link>
+    <description>Recent content in CSS on I learn web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru_RU</language>
+    <lastBuildDate>Sat, 21 Dec 2019 14:04:08 +0300</lastBuildDate>
+    
+	<atom:link href="/categories/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Space Between</title>
+      <link>/post/space_between/</link>
+      <pubDate>Sat, 21 Dec 2019 14:04:08 +0300</pubDate>
+      
+      <guid>/post/space_between/</guid>
+      <description>&lt;p&gt;Ваши космические корабли пролетают опасную зону c астероидами&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

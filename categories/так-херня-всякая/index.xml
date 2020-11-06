@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Так, херня всякая on Web Dev School</title>
+    <link>/categories/%D1%82%D0%B0%D0%BA-%D1%85%D0%B5%D1%80%D0%BD%D1%8F-%D0%B2%D1%81%D1%8F%D0%BA%D0%B0%D1%8F/</link>
+    <description>Recent content in Так, херня всякая on Web Dev School</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/%D1%82%D0%B0%D0%BA-%D1%85%D0%B5%D1%80%D0%BD%D1%8F-%D0%B2%D1%81%D1%8F%D0%BA%D0%B0%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Тестовая запись</title>
+      <link>/post/test/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/test/</guid>
+      <description>&lt;p&gt;Захватывающая история про то, как мужики ели мясо.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
